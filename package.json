@@ -1,0 +1,16 @@
+```json
+{
+  "name": "devops-cloud-application",
+  "version": "1.0.0",
+  "description": "UI based Node.js application deployed using Jenkins Freestyle Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Pranali Patil",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
+```
